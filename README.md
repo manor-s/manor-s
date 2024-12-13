@@ -1,9 +1,11 @@
 ## Hi there 👋 My name is Manor
+
+- ✨ I am a Pediatrician, a Medical Manager in a Hospital, and also a Data Science Enthusiast
+
 <!--
 **manor-s/manor-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- I am a Pediatrician, a Medical Manager in a Hospital, and also a Data Science Enthusiast
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
