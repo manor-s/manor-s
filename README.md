@@ -1,6 +1,10 @@
-## Hi there 👋 My name is Manor
+Hi there 👋 My name is Manor.
 
-- ✨ I am a Pediatrician, a Medical Manager in a Hospital, and also a Data Science Enthusiast
+✨ I am a Pediatrician, a Medical Manager in a hospital, and a passionate Data Science Enthusiast.
+🔭 My aim is to develop data science methods to enhance the performance of healthcare systems and promote better health outcomes.
+🌱 I’m currently learning practical data science techniques and exploring their implementation in healthcare, taking meaningful steps toward impactful innovation.
+📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/manor-shpriz-0377a061/) or email me at [manorsh@gmail.com].
+
 
 <!--
 **manor-s/manor-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
